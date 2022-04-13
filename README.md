@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente atuo como pesquisadora e enfermeira sanitarista
 - 🌱 Estudando desenvolvimento web (graduação) e geoprocessamento (doutorado em saúde pública)
-- 🤔 Estou em busca de experiência e oportunidades na transição para carreira de desenvolvedora web
+- 🤔 Estou em busca de experiência e oportunidade na transição para carreira de desenvolvedora web
 
  <div align="center">
   <a href="https://github.com/michelinemendes">
