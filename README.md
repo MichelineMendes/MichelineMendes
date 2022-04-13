@@ -5,7 +5,7 @@
 - 🌱 Estudando desenvolvimento web (graduação) e geoprocessamento (doutorado em saúde pública)
 - 🤔 Estou em busca de experiência e oportunidades na transição para carreira de desenvolvedora web
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
  
   <a href="https://github.com/michelinemendes">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=michelinemendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
